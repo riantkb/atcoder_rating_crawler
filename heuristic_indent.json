@@ -1,6 +1,6 @@
 {
   "success": true,
-  "last_update_time": "2026-02-22 06:00:00+0900",
+  "last_update_time": "2026-02-23 06:00:00+0900",
   "data": {
     "saharan": 3346,
     "nikaj": 3346,
@@ -2841,8 +2841,8 @@
     "Coffins": 761,
     "ryu__ji": 759,
     "nunnu": 759,
-    "nk12384": 759,
     "natoriusan": 759,
+    "lazysegtree": 759,
     "kutsutama": 759,
     "cecet": 759,
     "katsudon421": 757,
@@ -4080,7 +4080,6 @@
     "NyankoSennsei": 354,
     "xml9shiki": 353,
     "taku_": 353,
-    "padyren188": 353,
     "ka": 353,
     "hato_bayibo": 353,
     "YujiTeshima": 353,
@@ -7407,7 +7406,6 @@
     "izumo": 55,
     "furikus": 55,
     "den_noh": 55,
-    "ayush991890": 55,
     "asssss": 55,
     "aom1do": 55,
     "Zeaple": 55,
@@ -10386,7 +10384,6 @@
     "KujiraBox": 8,
     "Just_Someone": 8,
     "Jainmuskan": 8,
-    "Fornjot": 8,
     "Dtake00": 8,
     "Dreamisfish": 8,
     "Dayzrs": 8,
@@ -10710,5 +10707,8 @@
     "InuDog9520": 4,
     "Gauthu": 4,
     "Aryu_Tamura": 4
+  },
+  "spans": {
+    "yosupo": "<span style=\"color:#274A78;\">yosupo</span>"
   }
 }
